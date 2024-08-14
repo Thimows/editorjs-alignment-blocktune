@@ -16,7 +16,7 @@
     "url": "https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune.git"
   },
   "scripts": {
-    "build": "webpack --mode production",
+    "build": "webpack --mode production" ,
     "build:dev": "webpack --mode development --watch",
     "pull_tools": "git submodule update --init --recursive"
   },
